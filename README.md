@@ -1,25 +1,29 @@
 # Maven_WebService
-Maven Webservice for User Registration and Fetching User data through REST API calls
+Maven Webservice for User Registration and Fetching User data through REST API calls <br/>
 
-retrieve all users - get /users
-create a user - post /users
-retrieve one user - get /users/{id} -> /users/1
-delete a user - delete /users/{id} 
+## Operations performed:
 
-Social media application
+retrieve all users - get /users <br/>
+create a user - post /users <br/>
+retrieve one user - get /users/{id} -> /users/1 <br/>
+delete a user - delete /users/{id} <br/>
 
-User-> posts
+### Social media application
 
-retrieve all posts for a user - get /users/{id}/posts
-create a posts for a user - post / users/{id}/posts
-retrieve details of a post - get /users/{id}/posts/{posts_id}
+User-> posts <br/>
 
-validation
-internationalization
-exception handling
-versioning your services
-content negotiation
-generating documentation for these services
-gateways 
+retrieve all posts for a user - get /users/{id}/posts <br/>
+create a posts for a user - post / users/{id}/posts <br/>
+retrieve details of a post - get /users/{id}/posts/{posts_id} <br/>
+
+#### Additional features: 
+
+validation <br/>
+internationalization <br/>
+exception handling <br/>
+versioning your services <br/>
+content negotiation <br/>
+generating documentation for these services <br/>
+gateways <br/>
 monitoring
 
